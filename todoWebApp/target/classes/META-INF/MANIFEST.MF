@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: mohit.kapoor
+Build-Jdk: 17.0.7
+Implementation-Title: todoWebApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.todoApp
+Implementation-URL: https://spring.io/projects/spring-boot/todoWebApp
+Created-By: Maven Integration for Eclipse
+
